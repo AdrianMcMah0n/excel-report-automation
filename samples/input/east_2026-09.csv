@@ -1,0 +1,75 @@
+Txn ID,Txn Date,SKU Name,Units,Rate,Sales
+E09-0051,2026-09-24,Ceramic Mug,2,Rs. 299,Rs. 598
+E09-0048,2026-09-18,Spice Rack,4,"Rs. 1,199","Rs. 4,796"
+E09-0057,2026-09-01,Spice Rack,1,"Rs. 1,199","Rs. 1,199"
+E09-0071,2026-09-21,Spice Rack,3,"Rs. 1,199","Rs. 3,597"
+E09-0037,2026-09-14,Glass Storage Jar,4,Rs. 349,"Rs. 1,396"
+E09-0021,2026-09-02,Bamboo Cutting Board,1,Rs. 799,Rs. 799
+E09-0063,2026-09-15,Cast Iron Pan 26cm,1,"Rs. 1,899","Rs. 1,899"
+E09-0032,2026-09-15,Glass Storage Jar,3,Rs. 349,"Rs. 1,047"
+E09-0020,2026-09-18,Cotton Apron,4,Rs. 449,"Rs. 1,796"
+E09-0043,2026-09-11,Steel Bottle 1L,5,Rs. 549,"Rs. 2,745"
+E09-0049,2026-09-03,Linen Napkins (4),3,Rs. 699,"Rs. 2,097"
+E09-0062,2026-09-19,Ceramic Mug,5,Rs. 299,"Rs. 1,495"
+E09-0065,2026-09-07,Glass Storage Jar,2,Rs. 349,Rs. 698
+E09-0014,2026-09-05,Spice Rack,2,"Rs. 1,199","Rs. 2,398"
+E09-0056,2026-09-25,Cast Iron Pan 26cm,3,"Rs. 1,899","Rs. 5,697"
+E09-0024,2026-09-18,Linen Napkins (4),1,Rs. 699,Rs. 699
+E09-0004,2026-09-05,Spice Rack,6,"Rs. 1,199","Rs. 7,194"
+E09-0039,2026-09-01,Cotton Apron,2,Rs. 449,Rs. 898
+E09-0055,2026-09-20,Linen Napkins (4),1,Rs. 699,Rs. 699
+E09-0050,2026-09-01,Cotton Apron,3,Rs. 449,"Rs. 1,347"
+E09-0038,2026-09-21,Bamboo Cutting Board,7,Rs. 799,"Rs. 5,593"
+E09-0041,2026-09-05,Spice Rack,3,"Rs. 1,199","Rs. 3,597"
+E09-0042,2026-09-15,Linen Napkins (4),2,Rs. 699,"Rs. 1,398"
+E09-0072,2026-09-01,Cast Iron Pan 26cm,3,"Rs. 1,899","Rs. 5,697"
+E09-0066,2026-09-17,Bamboo Cutting Board,2,Rs. 799,"Rs. 1,598"
+E09-0008,2026-09-16,Cotton Apron,1,Rs. 449,Rs. 449
+E09-0054,2026-09-08,Glass Storage Jar,5,Rs. 349,"Rs. 1,745"
+E09-0017,2026-09-27,Bamboo Cutting Board,2,Rs. 799,"Rs. 1,598"
+E09-0028,2026-09-25,Linen Napkins (4),1,Rs. 699,Rs. 699
+E09-0019,2026-09-27,Steel Bottle 1L,2,Rs. 549,"Rs. 1,098"
+E09-0068,2026-09-15,Ceramic Mug,3,Rs. 299,Rs. 897
+E09-0009,2026-09-12,Linen Napkins (4),1,Rs. 699,Rs. 699
+E09-0005,2026-09-07,Linen Napkins (4),2,Rs. 699,"Rs. 1,398"
+E09-0023,2026-09-10,Spice Rack,6,"Rs. 1,199","Rs. 7,194"
+E09-0002,2026-09-12,Linen Napkins (4),2,Rs. 699,"Rs. 1,398"
+E09-0052,2026-09-23,Linen Napkins (4),1,Rs. 699,Rs. 699
+E09-0060,2026-09-25,Cotton Apron,1,Rs. 449,Rs. 449
+E09-0045,2026-09-03,Ceramic Mug,3,Rs. 299,Rs. 897
+E09-0018,2026-09-26,Steel Bottle 1L,1,Rs. 549,Rs. 549
+E09-0004,2026-09-05,Spice Rack,6,"Rs. 1,199","Rs. 7,194"
+E09-0069,2026-09-23,Steel Bottle 1L,1,Rs. 549,Rs. 549
+E09-0033,2026-09-15,Cast Iron Pan 26cm,5,"Rs. 1,899","Rs. 9,495"
+E09-0013,2026-09-09,Bamboo Cutting Board,1,Rs. 799,Rs. 799
+E09-0053,2026-09-15,Spice Rack,3,"Rs. 1,199","Rs. 3,597"
+E09-0047,2026-09-19,Ceramic Mug,1,Rs. 299,Rs. 299
+E09-0058,2026-09-13,Cast Iron Pan 26cm,1,"Rs. 1,899","Rs. 1,899"
+E09-0011,2026-09-07,Glass Storage Jar,1,Rs. 349,Rs. 349
+E09-0012,2026-09-07,Cast Iron Pan 26cm,1,"Rs. 1,899","Rs. 1,899"
+E09-0040,2026-09-09,Spice Rack,4,"Rs. 1,199","Rs. 4,796"
+E09-0044,2026-09-15,Ceramic Mug,1,Rs. 299,Rs. 299
+E09-0029,2026-09-22,Cast Iron Pan 26cm,3,"Rs. 1,899","Rs. 5,697"
+E09-0059,2026-09-28,Spice Rack,3,"Rs. 1,199","Rs. 3,597"
+E09-0036,2026-09-04,Bamboo Cutting Board,1,Rs. 799,Rs. 799
+E09-0025,2026-09-23,Glass Storage Jar,3,Rs. 349,"Rs. 1,047"
+E09-0027,2026-09-27,Linen Napkins (4),1,Rs. 699,Rs. 699
+E09-0001,2026-09-22,Cast Iron Pan 26cm,7,"Rs. 1,899","Rs. 13,293"
+E09-0003,2026-09-27,Spice Rack,2,"Rs. 1,199","Rs. 2,398"
+E09-0016,2026-09-05,Cast Iron Pan 26cm,4,"Rs. 1,899","Rs. 7,596"
+E09-0011,2026-09-07,Glass Storage Jar,1,Rs. 349,Rs. 349
+E09-0030,2026-09-08,Bamboo Cutting Board,2,Rs. 799,"Rs. 1,598"
+E09-0026,2026-09-01,Spice Rack,4,"Rs. 1,199","Rs. 4,796"
+E09-0035,2026-09-03,Cast Iron Pan 26cm,2,"Rs. 1,899","Rs. 3,798"
+E09-0015,2026-09-18,Linen Napkins (4),1,Rs. 699,Rs. 699
+E09-0046,2026-09-17,Ceramic Mug,1,Rs. 299,Rs. 299
+E09-0007,2026-09-24,Steel Bottle 1L,4,Rs. 549,"Rs. 2,196"
+E09-0064,2026-09-26,Ceramic Mug,1,Rs. 299,Rs. 299
+E09-0031,2026-09-28,Spice Rack,3,"Rs. 1,199","Rs. 3,597"
+E09-0067,2026-09-02,Linen Napkins (4),3,Rs. 699,"Rs. 2,097"
+E09-0022,2026-09-14,Bamboo Cutting Board,3,Rs. 799,"Rs. 2,397"
+E09-0070,2026-09-28,Steel Bottle 1L,5,Rs. 549,"Rs. 2,745"
+E09-0010,2026-09-25,Bamboo Cutting Board,3,Rs. 799,"Rs. 2,397"
+E09-0034,2026-09-03,Spice Rack,2,"Rs. 1,199","Rs. 2,398"
+E09-0061,2026-09-06,Steel Bottle 1L,1,Rs. 549,Rs. 549
+E09-0006,2026-09-10,Glass Storage Jar,6,Rs. 349,"Rs. 2,094"
